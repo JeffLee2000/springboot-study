@@ -38,7 +38,6 @@ public class HelloController {
     public static class Hello {
         private String name;
 
-
         public String getName() {
             return name;
         }
